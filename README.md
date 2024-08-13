@@ -15,7 +15,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) system using LL
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/Priykrit/RAG-with-LLAMA3-GROQ-INFERENCING-ENGINE-and-Objectbox.git
     cd yourrepository
     ```
 
